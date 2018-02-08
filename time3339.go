@@ -1,4 +1,4 @@
-package src
+package sf_time
 
 import "time"
 
